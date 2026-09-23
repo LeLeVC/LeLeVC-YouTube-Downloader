@@ -1,5 +1,11 @@
 # LeLeVC_YouTube Downloader
 
+## Download
+
+[Download the latest release](https://github.com/LeLeVC/LeLeVC-YouTube-Downloader/releases/latest)
+
+Windows x64 • Installation instructions below.
+
 Version **1.0** — a Windows ReaScript by **LeLeVC** for downloading a single YouTube video or audio track and importing it into REAPER.
 
 This software is distributed under the LeLeVC Free Use and No-Sale License. See [LICENSE.md](LICENSE.md). External tools are downloaded separately and retain their own licenses.
