@@ -39,6 +39,16 @@ This release is Windows-only. It does not provide macOS or Linux support. The au
 
 Windows may block scripts extracted from an internet download. If you trust the source, check the ZIP's **Properties > Unblock** before extracting. Managed computers may enforce PowerShell restrictions that the script cannot override.
 
+### Why are PowerShell files included?
+
+The Lua script integrates with REAPER, while PowerShell handles the Windows interface and external tools:
+
+- `YouTube-link-dialog.ps1` — provides the window, settings and format selection.
+- `YouTube-downloader.ps1` — manages downloading and media processing using yt-dlp and FFmpeg.
+- `Install-tools.ps1` — installs and updates the required external tools.
+
+These files are provided as readable source code so you can inspect them before running the script.
+
 ## Use
 
 The same window contains three pages: link and settings, format selection, and progress.
