@@ -10,6 +10,10 @@ Version **1.0** — a Windows ReaScript by **LeLeVC** for downloading a single Y
 
 This software is distributed under the LeLeVC Free Use and No-Sale License. See [LICENSE.md](LICENSE.md). External tools are downloaded separately and retain their own licenses.
 
+## Screenshot
+
+![LeLeVC YouTube Downloader window](screenshot.png)
+
 ## Requirements
 
 - Windows x64, Windows PowerShell 5.1 with Windows Forms, and an internet connection.
