@@ -1,5 +1,7 @@
 # LeLeVC_YouTube Downloader
 
+A vibe-coded project by LeLeVC, developed with AI assistance.
+
 ## Download
 
 [Download the latest release](https://github.com/LeLeVC/LeLeVC-YouTube-Downloader/releases/latest)
