@@ -19,6 +19,10 @@ This software is distributed under the LeLeVC Free Use and No-Sale License. See 
 
 ![LeLeVC YouTube Downloader window](screenshot.png)
 
+## Video demo
+
+https://github.com/user-attachments/assets/9877f298-9ff4-47f1-872f-5993121a589f
+
 ## Requirements
 
 - Windows x64, Windows PowerShell 5.1 with Windows Forms, and an internet connection.
