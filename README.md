@@ -124,3 +124,11 @@ The license terms allow free use in professional and commercial productions, mod
 This is a custom source-available license, not MIT or a blanket prohibition of commercial use. See [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for the separate external-tool licenses. This project is not affiliated with or endorsed by REAPER, Cockos, YouTube, Google or the tool authors. Download only material you are permitted to download and use; the script license does not grant rights to YouTube content.
 
 See [CHANGELOG.md](CHANGELOG.md) for the version history.
+
+## Contact
+
+For private questions and licensing inquiries:
+[lelevibecoder@gmail.com](mailto:lelevibecoder@gmail.com)
+
+For bug reports and feature requests, please use
+[GitHub Issues](https://github.com/LeLeVC/LeLeVC-YouTube-Downloader/issues).
