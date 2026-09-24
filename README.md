@@ -1,4 +1,7 @@
-# LeLeVC_YouTube Downloader
+# LeLeVC YouTube Downloader for REAPER
+
+Download YouTube video and audio directly into your REAPER project.
+A Windows ReaScript with format selection and automatic media import.
 
 A vibe-coded project by LeLeVC, developed with AI assistance.
 
